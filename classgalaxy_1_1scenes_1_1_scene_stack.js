@@ -1,0 +1,26 @@
+var classgalaxy_1_1scenes_1_1_scene_stack =
+[
+    [ "SceneStack", "classgalaxy_1_1scenes_1_1_scene_stack.html#a06cd58d3b937590f06b8db600fc32c55", null ],
+    [ "~SceneStack", "classgalaxy_1_1scenes_1_1_scene_stack.html#ae997dffbab0a048ea50e113e6f4061f1", null ],
+    [ "SceneStack", "classgalaxy_1_1scenes_1_1_scene_stack.html#a606790060e8fed31d3c443db19db08a8", null ],
+    [ "SceneStack", "classgalaxy_1_1scenes_1_1_scene_stack.html#a943fcac3ad61b19431e8c41540f90010", null ],
+    [ "clear", "classgalaxy_1_1scenes_1_1_scene_stack.html#a75bb02f6ca83c5e8a38686c144a82376", null ],
+    [ "create", "classgalaxy_1_1scenes_1_1_scene_stack.html#a2f736cd52210a68f192148be37bd9d2a", null ],
+    [ "deserialize", "classgalaxy_1_1scenes_1_1_scene_stack.html#a39e8c624e65b50de4c0914d609174364", null ],
+    [ "events", "classgalaxy_1_1scenes_1_1_scene_stack.html#a1e14ae2f9914f046e9d6d10cece2d4e7", null ],
+    [ "get", "classgalaxy_1_1scenes_1_1_scene_stack.html#ac5169b1373d5390b1e7afe0bd879f343", null ],
+    [ "get_scene_keys", "classgalaxy_1_1scenes_1_1_scene_stack.html#a6458dc4ec1aa58d649dc65f44aa26550", null ],
+    [ "get_scenes", "classgalaxy_1_1scenes_1_1_scene_stack.html#ac0007034bdff9ecf8688d098eee60c19", null ],
+    [ "operator=", "classgalaxy_1_1scenes_1_1_scene_stack.html#a3d233323a5972dd781c5d7744de9e6d3", null ],
+    [ "operator=", "classgalaxy_1_1scenes_1_1_scene_stack.html#a9c4ab5ffa047617370ef5b8f30b83016", null ],
+    [ "pop", "classgalaxy_1_1scenes_1_1_scene_stack.html#a2820ec4ebb97d434cdc36bd5be49b42d", null ],
+    [ "pre_render", "classgalaxy_1_1scenes_1_1_scene_stack.html#a6e8432a7dda166f4ddd5d0be9d495b13", null ],
+    [ "push", "classgalaxy_1_1scenes_1_1_scene_stack.html#a242d610f006fa3524c95d083e6a42b50", null ],
+    [ "render", "classgalaxy_1_1scenes_1_1_scene_stack.html#a921e3e1d9db88c43847a786d2f36b8d5", null ],
+    [ "serialize", "classgalaxy_1_1scenes_1_1_scene_stack.html#a0b03c2d11496a80307414f8bced9a595", null ],
+    [ "top", "classgalaxy_1_1scenes_1_1_scene_stack.html#ae418fc020e45795619e42ee6be3b9b83", null ],
+    [ "top", "classgalaxy_1_1scenes_1_1_scene_stack.html#a509c43ab4ea24d3b28ee96c24d66efc4", null ],
+    [ "update", "classgalaxy_1_1scenes_1_1_scene_stack.html#a581e948dde528ef958974c820d4b7b7f", null ],
+    [ "m_scenes", "classgalaxy_1_1scenes_1_1_scene_stack.html#a034381e23d97c78d151f2f557d8f193f", null ],
+    [ "m_stack", "classgalaxy_1_1scenes_1_1_scene_stack.html#aec09bb1f2283c6a4d2e8285a65cc395a", null ]
+];
